@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class 움직임 : MonoBehaviour
 {
-    public float moveSpeed = 30.0f;
-    public float turnSpeed = 70.0f;
+    public float moveSpeed = 20.0f;
+    public float turnSpeed = 80.0f;
     
     private float h;
     private float v;
